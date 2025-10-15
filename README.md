@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **coffee2think/coffee2think** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
